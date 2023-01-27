@@ -5,7 +5,7 @@
 <h1>Welcome to my first PHP page using openshift S2I</h1>
 
 <?php
-echo "this is updated version of webpage...!";
+echo "this is my first web page using S2I ..!";
 ?>
 
 </body>
