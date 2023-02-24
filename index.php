@@ -5,9 +5,8 @@
 <h1>Welcome to my first PHP page using openshift S2I</h1>
 
 <?php
-echo "this is my first web page using S2I webhooks....!";
+echo "this is my first web page using S2I....!";
 echo "welcome to my webpage ....!";
-echo "thank you for visit here...!";
 ?>
 
 </body>
