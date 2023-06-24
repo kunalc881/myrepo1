@@ -2,13 +2,10 @@
 <html>
 <body>
 
-<h1>Welcome to my first PHP page using openshift S2I</h1>
-
+<h1>My PHP page using openshift S2I </h1>
+   <h2> new version </h2>
 <?php
-echo "this is my first web page using S2I....!";
-echo "welcome to my webpage hello from kunal thank you ....!";
-echo "this is successfully deployed on production server"
-echo "hello from kunal"
+echo "Hello fom Shantanu!";
 ?>
 
 </body>
